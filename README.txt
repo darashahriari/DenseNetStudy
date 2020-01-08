@@ -1,6 +1,8 @@
 # miniProject4
 miniProject4 contains the codes to run each modification done on the Baseline model of Densenet and Also it includes 3 different Resnet Networks.
 
+**Please read the writeup.pdf for more information** 
+
 ## DenseNet_Modified_reduced_samples_Baseline.ipynb
 
 
